@@ -3,7 +3,7 @@
 # Created by: Mr. Coxall
 # Created on: Sep 2020
 # This program calculates the area and perimeter of a circle
-#    with radius 5cm
+#    with radius 5mm
 
 import math
 
@@ -11,10 +11,10 @@ import math
 def main():
     # this function calculates the area and perimeter
 
-    print("If a circle has a radius of 5cm: ")
+    print("If a circle has a radius of 15mm: ")
     print("")
-    print("Area is {}cm².".format(math.pi * 5 ** 2))
-    print("Perimeter is {}cm.".format(2 * math.pi * 5))
+    print("Area is {}mm².".format(math.pi * 15 ** 2))
+    print("Perimeter is {}mm.".format(2 * math.pi * 15))
     print("")
     print("Done.")
 
