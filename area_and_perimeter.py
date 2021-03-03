@@ -3,7 +3,7 @@
 # Created by: Mr. Coxall
 # Created on: Sep 2020
 # This program calculates the area and perimeter of a circle
-#    with radius 5mm
+#    with radius 15mm
 
 import math
 
